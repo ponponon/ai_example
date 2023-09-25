@@ -1,0 +1,11 @@
+pillow
+torch>=1.12.1
+torchvision
+numpy
+nptyping
+onnxruntime
+onnx
+scikit-learn
+# nvidia_cublas_cu11
+# nvidia_cudnn_cu11
+# torch_tensorrt
