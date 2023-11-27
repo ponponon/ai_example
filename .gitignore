@@ -180,3 +180,4 @@ Pipfile.lock
 
 *.onnx
 *.om
+*.wav

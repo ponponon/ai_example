@@ -9,3 +9,17 @@ scikit-learn
 # nvidia_cublas_cu11
 # nvidia_cudnn_cu11
 # torch_tensorrt
+transformers
+sentencepiece
+loguru
+
+datasets
+
+openai-whisper
+setuptools-rust
+soundfile
+torchaudio
+fairseq
+
+librosa
+soundfile
